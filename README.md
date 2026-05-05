@@ -1,6 +1,6 @@
-# Delete Production Submissions Plugin for OMP 3.4
+# Delete Production Submissions Plugin for OJS & OMP 3.4
 
-This plugin allows Press Managers and Administrators to delete submissions that have reached the **Production** stage in **Open Monograph Press (OMP) 3.4**.
+This plugin allows Journal/Press Managers and Administrators to delete submissions that have reached the **Production** stage in **Open Journal Systems (OJS) 3.4** and **Open Monograph Press (OMP) 3.4**.
 
 ## Features
 
@@ -16,7 +16,7 @@ This plugin allows Press Managers and Administrators to delete submissions that 
 3.  Go to **Settings > Website > Plugins**.
 4.  Click on **Upload A New Plugin**.
 5.  Select the `.tar.gz` file and click **Save**.
-6.  Alternatively, extract the package and upload the `deleteProductionSubmissions` folder to your `plugins/generic/` directory.
+6.  Alternatively, extract the package and upload the `deleteProductionSubmissions` folder to your `plugins/generic/` directory in your OJS/OMP installation.
 
 ## How to Use
 
@@ -27,7 +27,7 @@ This plugin allows Press Managers and Administrators to delete submissions that 
 
 ## Requirements
 
--   **OMP 3.4.x**
+-   **OJS 3.4.x** or **OMP 3.4.x**
 -   PHP 8.0 or higher.
 
 ## License
