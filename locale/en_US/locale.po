@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-12 13:54:00+0000\n"
+"PO-Revision-Date: 2026-01-12 13:54:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "plugins.generic.deleteProductionSubmissions.displayName"
+msgstr "Delete Production & Incomplete Submissions"
+
+msgid "plugins.generic.deleteProductionSubmissions.description"
+msgstr "Advanced tool to delete submissions in Production or Incomplete stages with selective and bulk options."
+
+msgid "plugins.generic.deleteProductionSubmissions.deletion"
+msgstr "Delete Submissions"
+
+msgid "plugins.generic.deleteProductionSubmissions.deletion.description"
+msgstr "Choose a target set and deletion method. Use 'Select Specific' for precise control."
+
+msgid "plugins.generic.deleteProductionSubmissions.deletion.warning.title"
+msgstr "CRITICAL WARNING"
+
+msgid "plugins.generic.deleteProductionSubmissions.deletion.warning.item.one"
+msgstr "This action is permanent and cannot be undone."
+
+msgid "plugins.generic.deleteProductionSubmissions.deletion.warning.item.two"
+msgstr "Targets: Unpublished Production items, Incomplete submissions, and Declined archived items."
+
+msgid "plugins.generic.deleteProductionSubmissions.label.targetSet"
+msgstr "Step 1: Choose Target Submissions"
+
+msgid "plugins.generic.deleteProductionSubmissions.target.production"
+msgstr "Production Stage Submissions"
+
+msgid "plugins.generic.deleteProductionSubmissions.target.incomplete"
+msgstr "Incomplete Submissions"
+
+msgid "plugins.generic.deleteProductionSubmissions.target.declined"
+msgstr "Declined Submissions (Archives)"
+
+msgid "plugins.generic.deleteProductionSubmissions.label.selectMode"
+msgstr "Step 2: Choose Deletion Method"
+
+msgid "plugins.generic.deleteProductionSubmissions.mode.all"
+msgstr "Delete All in Target Set"
+
+msgid "plugins.generic.deleteProductionSubmissions.mode.select"
+msgstr "Select Specific Submissions"
+
+msgid "plugins.generic.deleteProductionSubmissions.mode.time"
+msgstr "Delete based on Inactivity"
+
+msgid "plugins.generic.deleteProductionSubmissions.thresholdLabel"
+msgstr "Days Inactive"
+
+msgid "plugins.generic.deleteProductionSubmissions.preview"
+msgstr "Scan / Preview Submissions"
+
+msgid "plugins.generic.deleteProductionSubmissions.confirmCount"
+msgstr "Are you sure you want to delete {$count} submissions?"
+
+msgid "plugins.generic.deleteProductionSubmissions.finalConfirm"
+msgstr "I understand this is permanent and want to proceed."
+
+msgid "plugins.generic.deleteProductionSubmissions.noSubmissionsFound"
+msgstr "No matching submissions found in this category."
